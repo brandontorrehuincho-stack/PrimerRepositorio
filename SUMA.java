@@ -43,3 +43,5 @@ public class SumaPrincipal {
     }
     
 }
+
+git add <atributos.txt>
